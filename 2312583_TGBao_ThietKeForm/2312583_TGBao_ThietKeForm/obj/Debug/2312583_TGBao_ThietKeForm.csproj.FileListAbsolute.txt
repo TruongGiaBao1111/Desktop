@@ -1,0 +1,15 @@
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\bin\Debug\2312583_TGBao_ThietKeForm.exe.config
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\bin\Debug\2312583_TGBao_ThietKeForm.exe
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\bin\Debug\2312583_TGBao_ThietKeForm.pdb
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\obj\Debug\2312583_TGBao_ThietKeForm.csproj.AssemblyReference.cache
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\obj\Debug\_2312583_TGBao_ThietKeForm.frmBai1.resources
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\obj\Debug\_2312583_TGBao_ThietKeForm.frmChinh.resources
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\obj\Debug\_2312583_TGBao_ThietKeForm.Properties.Resources.resources
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\obj\Debug\2312583_TGBao_ThietKeForm.csproj.GenerateResource.cache
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\obj\Debug\2312583_TGBao_ThietKeForm.csproj.CoreCompileInputs.cache
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\obj\Debug\2312583_TGBao_ThietKeForm.exe
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\obj\Debug\2312583_TGBao_ThietKeForm.pdb
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\obj\Debug\2312583_TGBao_ThietKeForm.exe.config
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\obj\Debug\_2312583_TGBao_ThietKeForm.frmBai2.resources
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\obj\Debug\_2312583_TGBao_ThietKeForm.frmBai3.resources
+D:\visual\2312583_TGBao_ThietKeForm\2312583_TGBao_ThietKeForm\obj\Debug\_2312583_TGBao_ThietKeForm.frmBai4.resources

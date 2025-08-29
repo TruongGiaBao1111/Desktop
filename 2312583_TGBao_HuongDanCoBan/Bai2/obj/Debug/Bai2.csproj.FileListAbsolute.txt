@@ -1,0 +1,11 @@
+D:\visual\2312583_TGBao_HuongDanCoBan\Bai2\bin\Debug\Bai2.exe.config
+D:\visual\2312583_TGBao_HuongDanCoBan\Bai2\bin\Debug\Bai2.exe
+D:\visual\2312583_TGBao_HuongDanCoBan\Bai2\bin\Debug\Bai2.pdb
+D:\visual\2312583_TGBao_HuongDanCoBan\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+D:\visual\2312583_TGBao_HuongDanCoBan\Bai2\obj\Debug\Bai2.MainForm.resources
+D:\visual\2312583_TGBao_HuongDanCoBan\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+D:\visual\2312583_TGBao_HuongDanCoBan\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+D:\visual\2312583_TGBao_HuongDanCoBan\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+D:\visual\2312583_TGBao_HuongDanCoBan\Bai2\obj\Debug\Bai2.exe
+D:\visual\2312583_TGBao_HuongDanCoBan\Bai2\obj\Debug\Bai2.pdb
+D:\visual\2312583_TGBao_HuongDanCoBan\Bai2\obj\Debug\Bai2.exe.config
